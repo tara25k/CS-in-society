@@ -1,5 +1,13 @@
 body {
     background: pink !important; 
+    padding:5px;
+    color:white !important;
+}
+
+#authorsNote{
+    float:right;
+    color:white;
+    text-decoration:bold;
 }
 
 .jumbotron{
@@ -10,4 +18,29 @@ body {
 
 a{
     color:white !important;
+}
+
+.nav-item{
+    background-color:rgb(248, 167, 181) !important;
+}
+.nav-item-active{
+    background-color:rgb(250, 156, 171) !important;
+}
+
+.nav-item:hover{
+    background-color:rgb(250, 156, 171) !important;
+}
+
+#bodyTitle{
+    text-align:center;
+    color:white;
+    text-decoration:bold;
+}
+
+h2{
+    text-align:center;
+}
+
+h4{
+    text-align:center;
 }
