@@ -1,0 +1,9 @@
+body {
+    background: pink !important; 
+}
+
+.jumbotron{
+    text-align:center;
+    background:rgb(253, 152, 169) !important;
+    color:white !important;
+}
