@@ -5,6 +5,7 @@ body {
 }
 
 #authorsNote{
+    position: relative;
     float:right;
     color:white;
     text-decoration:bold;
@@ -46,5 +47,5 @@ h4{
 }
 
 .highlight:hover {
-    background-color:rgb(250, 156, 171)
+    background-color:rgb(253, 152, 169) ;
 }
