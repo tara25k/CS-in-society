@@ -44,3 +44,7 @@ h2{
 h4{
     text-align:center;
 }
+
+.highlight:hover {
+    background-color:rgb(250, 156, 171)
+}
