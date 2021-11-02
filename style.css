@@ -56,3 +56,7 @@ h4{
     margin-right: auto;
     width: 50%;
 }
+
+html {
+    cursor: url("./computer-mouse.svg") 16 16, pointer;
+  }
