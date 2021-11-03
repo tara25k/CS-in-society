@@ -1,0 +1,30 @@
+Interest of content
+9 - Exemplary
+	
+
+Consistency and quality of visual presentation
+
+10- Perfect
+	nice fonts, colours, css was done very well and the page is very pretty
+
+Quality of written presentation
+9 - Exemplary
+	
+
+Validity of HTML
+5 - Good
+	some errors came up when validating the files.
+
+
+Evidence of collaboration including
+	Author info not written by author
+		yes
+
+	Balanced contributions from members
+	10 - Perfect
+	very balanced between the contributors
+
+
+	Not completed at the last minute
+	10 - Perfect
+
