@@ -52,7 +52,7 @@ a{
     background-color:rgb(250, 156, 171) !important;
 }
 
-#bodyTitle{
+h1{
     text-align:center;
     color:white;
     text-shadow: 0 2px 1px #ef3550;
@@ -60,6 +60,8 @@ a{
 
 h2{
     text-align:center;
+        color:white;
+    text-shadow: 0 2px 1px #ef3550;
 }
 
 h4{
