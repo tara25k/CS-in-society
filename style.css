@@ -1,7 +1,8 @@
 body {
     background: pink !important; 
-    padding:5px;
+    padding:8px;
     color:white !important;
+    font-size:20px !important;
 }
 
 #authorsNote{
@@ -15,6 +16,25 @@ body {
     text-align:center;
     background:rgb(253, 152, 169) !important;
     color:white !important;
+}
+.jumbotron h1{
+    margin-top: 0px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 3rem;
+    letter-spacing: 0.15rem;
+    text-transform: uppercase;
+    color: #fff;
+    text-shadow: -4px 4px #ef3550,
+                    -8px 8px #f48fb1,
+                    -12px 12px #ffafc9,
+                    -16px 16px #ff5b8f,
+                    -20px 20px #e794af,
+                    -24px 24px #fa1e63,
+                    -28px 28px #f3bacc,
+                    -32px 32px #ff5b8f,
+                    -36px 36px #ff5722;
 }
 
 a{
@@ -35,7 +55,7 @@ a{
 #bodyTitle{
     text-align:center;
     color:white;
-    text-decoration:bold;
+    text-shadow: 0 2px 1px #ef3550;
 }
 
 h2{
@@ -112,4 +132,28 @@ html {
 #dropdown li:hover ul
 {
 	display: block;
+}
+
+ul{
+    border-left:4px solid #ef3550;
+    list-style-type:none;
+    text-decoration:bold;
+    background-color:rgb(226, 172, 181);
+}
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+button{
+    border-radius:5px;
+    color:white;
+    background-color:pink;
+    border:4px solid white;
+    padding:10px;
+}
+
+#buttonDiv{
+    text-align:center;
 }
